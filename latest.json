@@ -1,0 +1,13 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "minSupportedVersionCode": 1,
+  "apkUrl": "https://github.com/RifkyTH/riphio-releases/releases/download/v1.0.0/riphio-recorder.apk",
+  "sha256": "0fbb8d06cc9a3efafabc2fcb594269ebffa64f38cef97676a562cb4a6c45c487",
+  "sizeBytes": 86873778,
+  "releaseNotes": [
+    "Rilis perdana Riphio Recorder dengan sinkronisasi Firebase",
+    "Fitur Panel Admin dan integrasi real-time"
+  ],
+  "publishedAt": "2026-10-14T14:30:00Z"
+}
